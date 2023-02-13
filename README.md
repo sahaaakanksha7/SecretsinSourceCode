@@ -1,7 +1,6 @@
 # SecretsinSourceCode
 
-## Secrets in Source Code: Reducing False Positives
-Using Machine Learning
+## Secrets in Source Code: Reducing False Positives Using Machine Learning
 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9027350
 
